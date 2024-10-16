@@ -22,6 +22,7 @@
 </h1>
 </div>
    <div id="about">
+    <img align="right" src="https://media.giphy.com/media/QKUx6kHItu3ilaVMdn/giphy.gif" height="140">
    :large_orange_diamond: My name is Darya and I am a Quality Assurance Engineer <br>
    :large_orange_diamond: I am learning foreign languages in my free time <br>
    :large_orange_diamond: See some of my study projects on testing below <br>
