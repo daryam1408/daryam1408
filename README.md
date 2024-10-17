@@ -22,11 +22,14 @@
 </h1>
 </div>
    <div id="about">
+   <img align="right" src="https://media.giphy.com/media/QheubMbTgY7FPfsTXf/giphy.gif"  height="140">
+   <p>
    :large_orange_diamond: My name is Darya and I am a Quality Assurance Engineer <br>
    :large_orange_diamond: I am learning foreign languages in my free time <br>
    :large_orange_diamond: See some of my study projects on testing below <br>
    :large_orange_diamond: Read about my experience on my CV <br>
-   :large_orange_diamond: Reach me by Linkedin, email  
+   :large_orange_diamond: Reach me by Linkedin, email
+  </p>
    </div>  
 <div id="headline_2" align="center">   
    <h2>Tools :hammer_and_pick:</h2>
@@ -51,6 +54,7 @@
    <h2>Test artifacts :books:</h2>
 </div>  
 <div id="artifacts">
+   <p>
    :large_orange_diamond: <a href="https://github.com/daryam1408/design">Test Design Techniques</a> <br>
    :large_orange_diamond: <a href="https://github.com/daryam1408/docs">Test Documentation</a> <br>
    :large_orange_diamond: <a href="https://github.com/daryam1408/web">Web Application Testing</a> <br>
@@ -59,4 +63,5 @@
    :large_orange_diamond: <a href="https://github.com/daryam1408/git_bash">Git and Bash</a> <br>
    :large_orange_diamond: <a href="https://github.com/daryam1408/mobile">Mobile App Testing</a> <br>
    :large_orange_diamond: <a href="https://github.com/daryam1408/theory">Testing Theory</a> <br>
+  </p>  
 </div>
