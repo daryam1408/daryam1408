@@ -27,7 +27,7 @@
    :large_orange_diamond: I am learning foreign languages in my free time <br>
    :large_orange_diamond: See some of my study projects on testing below <br>
    :large_orange_diamond: Read about my experience on my CV <br>
-   :large_orange_diamond: Reach me by Linkedin, email
+   :large_orange_diamond: Reach me by Linkedin, <a href="mailto:daryam1408@gmail.com">email</a>
   </p>
    </div>  
 <div id="headline_2" align="center">   
