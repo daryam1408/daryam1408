@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/cHQ6SYDGeQH1b4s1pL/giphy.gif?cid=ecf05e47iscku4yc4ztjk87z95j8xtejq94apmglq04ylcei&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="200"/>
 </div>
 <div id="badges" align="center">
-  <a href="www.linkedin.com/in/darya-moseikova">
+  <a href="https://www.linkedin.com/in/darya-moseikova/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge"/>
   </a>
   <a href="mailto:daryam1408@gmail.com">
@@ -27,7 +27,7 @@
    :large_orange_diamond: I am learning foreign languages in my free time <br>
    :large_orange_diamond: See some of my study projects on testing below <br>
    :large_orange_diamond: Read about my experience on my <a href="https://drive.google.com/file/d/1BtrZrMXEwS1V8om7LfBh82wmZsP8D-FT/view?usp=sharing">CV</a> <br>
-   :large_orange_diamond: Reach me by <a href="www.linkedin.com/in/darya-moseikova">Linkedin</a>, <a href="mailto:daryam1408@gmail.com">email</a>
+   :large_orange_diamond: Reach me by <a href="https://www.linkedin.com/in/darya-moseikova/">Linkedin</a>, <a href="mailto:daryam1408@gmail.com">email</a>
   </p>
    </div>  
 <div id="headline_2" align="center">   
